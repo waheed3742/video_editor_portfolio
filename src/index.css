@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth !important;
+}
+body {
+  font-family: "Exo", sans-serif;
+}
+
+.orbitron {
+  font-family: "Orbitron", sans-serif;
+}
+
+.exo {
+  font-family: "Exo", sans-serif;
+}
+
+.animate-move-left {
+  animation: move-left 15s infinite;
+}
+.animate-move-right {
+  animation: move-right 15s infinite;
+}
+
+@keyframes move-left {
+  0% {
+    left: -100px;
+    top: -100px;
+  }
+  35% {
+    left: calc(100% - 300px);
+    top: calc(100% - 300px);
+  }
+  70% {
+    left: -100px;
+    top: calc(100% - 300px);
+  }
+  100% {
+    left: -100px;
+    top: -100px;
+  }
+}
+@keyframes move-right {
+  0% {
+    right: -100px;
+    bottom: -100px;
+  }
+  35% {
+    right: calc(100% - 300px);
+    bottom: calc(100% - 300px);
+  }
+  70% {
+    right: -100px;
+    bottom: calc(100% - 300px);
+  }
+  100% {
+    right: -100px;
+    bottom: -100px;
+  }
+}
