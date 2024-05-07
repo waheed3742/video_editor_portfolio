@@ -13,14 +13,12 @@ const About = () => {
             </div>
             <div className="text-center px-8 md:px-0 md:text-lg">
               <p>
-                Welcome to the cinematic realm of Jimmy, where creativity meets
-                technology to craft visually stunning narratives. With
+               Hi, I am Jimmy, a freelancer video editor! Welcome to my cinematic realm, where creativity meets technology to craft visually stunning narratives for you.
               </p>
               <p>
-                a passion for storytelling and a keen eye for detail, I embark
-                on a journey to transform ordinary footage into
+                With a passion for storytelling and a keen eye for detail, I am ready to embark on a journey with you, and transform ordinary footage into
               </p>
-              <p>extraordinary visual experiences.</p>
+              <p>extraordinary visual experiences!</p>
             </div>
           </div>
         </div>
