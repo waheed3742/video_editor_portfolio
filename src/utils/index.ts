@@ -65,18 +65,20 @@ export const PortfolioVideos = [
 
 export const TestimonialsData = [
   {
-    name: "Sarah Johnson, Marketing Director",
+    name: "Emily Parker",
     description:
-      "I had the pleasure of working with a talented video editor on a recent project, and I couldn't be happier with the results. Their creativity and attention to detail brought our vision to life in ways we hadn't imagined. The final product was not only visually stunning but also perfectly captured the essence of our brand. I highly recommend this video editor for anyone looking to elevate their video content!.",
+      "Jimmy's creativity brought our vision to life in ways we hadn't imagined. The final product was stunning and perfectly captured our brand.",
   },
   {
-    name: "Alex Martinez, Content Creator",
+    name: "Michael Nguyen",
     description:
-      "As a fellow video creator, I've admired this video editor's work for quite some time. When I needed assistance with editing a complex project, I reached out to them, and they exceeded my expectations. Their expertise in editing and post-production is truly exceptional. Working with them was not only productive but also enjoyable. I look forward to collaborating again in the future!",
+      "Jimmy's editing expertise exceeded my expectations. Working with him was both productive and enjoyable.",
   },
   {
-    name: "David Thompson, CEO",
+    name: "Sophia Roberts",
     description:
-      "This video editor is a true professional with a unique talent for storytelling through video. They took our raw footage and transformed it into a captivating narrative that resonated deeply with our audience. Throughout the process, they were communicative, receptive to feedback, and delivered results that surpassed our expectations. I can't recommend this video editor enough for their outstanding skills.",
+      "Jimmy is a true professional with a unique talent for storytelling through video. He transformed our raw footage into a captivating narrative that resonated deeply with our audience.",
   },
 ];
+
+
