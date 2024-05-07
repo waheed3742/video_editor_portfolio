@@ -6,7 +6,7 @@ const Contact = () => {
           <img src="/images/person.png" alt="" className="hidden" />
           <div className="flex flex-col justify-center items-center gap-6 w-1/3 md:w-1/4">
             <h2 className="text-2xl md:text-5xl uppercase font-bold">
-              Contact US
+              Contact Me
             </h2>
             <div className="bg-gradient h-[1px] w-full"></div>
           </div>
