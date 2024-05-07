@@ -15,7 +15,7 @@ const Header = () => {
                 </h1>
                 <p className="text-xl">Making your videos look more cool.</p>
                 <a
-                  href="#"
+                  href="#contact"
                   className="bg-primary text-xl p-4 px-16 uppercase font-bold hover:bg-secondary transition-all duration-300 ease-in-out orbitron"
                 >
                   Lets Talk
