@@ -33,7 +33,7 @@ const Navbar = () => {
                 ))}
               </ul>
             </div>
-            <div className="flex justify-end items-center gap-4">
+{/*             <div className="flex justify-end items-center gap-4">
               <a href="https://www.google.com">
                 <Icon icon={"fa6-brands:facebook-square"} className="text-xl" />
               </a>
@@ -43,7 +43,7 @@ const Navbar = () => {
               <a href="https://www.google.com">
                 <Icon icon={"fa6-brands:youtube"} className="text-xl" />
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
