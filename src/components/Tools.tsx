@@ -16,12 +16,7 @@ const Tools = () => {
             </div>
             <div className="text-center md:text-xl">
               <p>
-                Want to start editing videos but don't know where to start? Here
-                are some tools and resources to help you get started.
-              </p>
-              <p>
-                These tools and resources are essential for video editing and
-                will help you get started.
+                These tools and resources are essential for video editing and will help you get started, and are personally used by me to craft great YouTube videos for my clients.
               </p>
             </div>
             <div className="flex flex-col md:flex-row justify-start items-center w-full gap-10 orbitron">
